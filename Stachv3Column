@@ -1,0 +1,14 @@
+{
+    "description": "StachV3 columns root.",
+    "properties": {
+        "contextualType": {
+            "description": "The contextual type.",
+            "type": "string"
+        },
+        "name": {
+            "description": "The name of the column.",
+            "type": "string"
+        }
+    },
+    "type": "object"
+}
